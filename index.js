@@ -24,8 +24,8 @@ participant: `0@s.whatsapp.net`,
 message: { 
 "imageMessage": { 
 "mimetype": "image/jpeg", 
-"caption": `𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`, 
-"thumbnailUrl": 'https://telegra.ph/file/313cd5e07455d25a8db88.jpg'
+"caption": `DIKAA CHANNEL`, 
+"thumbnailUrl": 'https://d.top4top.io/p_2515dchrp0.png'
 } 
 }
 }
